@@ -1,12 +1,49 @@
-# React + Vite
+# 💼 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fully responsive developer portfolio built using **React** and **Tailwind CSS**. It showcases projects, skills, education, contact form functionality (email delivery), and includes smooth navigation and modern UI/UX design.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧑‍💻 About section 
+- 💡 Skills, Projects, and Education sections
+- 📩 Contact form using FormSubmit to send messages via email
+- 🌐 Social media links with React Icons
+- 📱 Fully responsive layout (mobile, tablet, desktop)
+- 🌈 Beautiful background blur effects using Tailwind
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React]
+- [Tailwind CSS]
+- [React Icons]
+- [React Typing Effect]
+- [FormSubmit]
+
+
+
+## 📁 Folder Structure
+
+my-portfolio/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── About.jsx
+│ │ ├── Skills.jsx
+│ │ ├── Projects.jsx
+│ │ ├── Education.jsx
+│ │ ├── Contact.jsx
+│ │ ├── Footer.jsx
+│ │ ├── Navbar.jsx
+│ │ └── BlurBlob.jsx
+│ ├── App.jsx
+│ └── main.jsx
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
+
+
+🌐 Live Demo
+
+[liveDemo](https://mohit98k.github.io/Portfolio/)
+
