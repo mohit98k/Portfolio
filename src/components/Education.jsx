@@ -24,7 +24,7 @@ export const Education = () => {
               <div className='border border-gray-400  mx-auto w-[30%] md:w-[20] bg-gray-900  '>
                 <div >
                     <div className='md:flex text-center'>
-                          <img src="/nit.png" className='h-20 w-20 p-2 rounded-full text-center' alt="" />
+                          <img src="/Portfolio/nit.png" className='h-20 w-20 p-2 rounded-full text-center' alt="" />
                           <p className='font-bold p-2  text-sm md:text-xl text-gray-400'>B.Tech in Information Technology</p>
                   </div>
                   <p className='font-semibold md:pl-4 text-center p-2 text-gray-300' >GRADE:8.6 CGPA</p>
@@ -39,7 +39,7 @@ export const Education = () => {
                <div className='border border-gray-400  mx-auto w-[30%] md:w-[20] bg-gray-900  '>
                 <div >
                     <div className='md:flex '>
-                          <img src="/rjlv.png" className='h-20 w-20 p-2 rounded-full' alt="" />
+                          <img src="/Portfolio/rjlv.png" className='h-20 w-20 p-2 rounded-full' alt="" />
                           <p className='font-bold text-center p-2 text-sm md:text-xl text-gray-400'>XII- PCMB</p>
                   </div>
                   <p className='font-semibold md:pl-4 text-gray-300 p-2 text-center'  >GRADE:93.4 %</p>

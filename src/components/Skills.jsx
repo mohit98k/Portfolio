@@ -21,35 +21,35 @@ export const Skills = () => {
 
                 <div className='flex flex-wrap mt-5 ml-3 gap-6'>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/html.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/html.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>HTML</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/css.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/css.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>CSS</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/javaScript.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/javaScript.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>JavaScript</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/react.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/react.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>React</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/redux.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/redux.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Redux</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/nextjs.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/nextjs.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>NextJs</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/tailwind.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/tailwind.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Tailwind</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/bootstrap.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/bootstrap.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>BootStrap</p>
                     </div>
                 </div>
@@ -60,27 +60,27 @@ export const Skills = () => {
 
                 <div className='flex flex-wrap mt-5 ml-3 gap-6'>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/springboot.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/springboot.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>SpringBoot</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/nodejs.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/nodejs.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>NodeJs</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/expressjs.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/expressjs.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>ExpressJs</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/mysql.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/mysql.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>MySQL</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/mongodb.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/mongodb.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>MongoDB</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/firebase.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/firebase.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>FireBase</p>
                     </div>
                     
@@ -91,27 +91,27 @@ export const Skills = () => {
 
                 <div className='flex flex-wrap mt-5 ml-3 gap-6'>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/c.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/c.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>C</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/cpp.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/cpp.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>C++</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/java.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/java.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Java</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/python.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/python.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>python</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/javaScript.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/javaScript.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>JavaScript</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/typescript.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/typescript.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>TypeScript</p>
                     </div>
                     
@@ -122,35 +122,35 @@ export const Skills = () => {
 
                 <div className='flex flex-wrap mt-5 ml-3 gap-6'>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/git.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/git.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Git</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/github.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/github.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>GitHub</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/vscode.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/vscode.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>VS Code</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/postman.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/postman.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Postman</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/vercel.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/vercel.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Vercel</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/compass.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/compass.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Compass</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/netlify.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/netlify.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Netlify</p>
                     </div>
                     <div className='flex flex-wrap border-2 rounded-full border-[rgba(130,69,236,0.77)] '>
-                      <img src="/figma.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
+                      <img src="/Portfolio/figma.png" alt="" className='h-10 w-10 rounded-full mr-2 '/>
                       <p className='text-l font-medium aling-center text-gray-400 '>Figma</p>
                     </div>
                 </div>

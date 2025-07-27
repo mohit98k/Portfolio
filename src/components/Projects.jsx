@@ -23,7 +23,7 @@ export const Projects = () => {
         <div className='border border-white bg-gray-900 hover:shadow-purple-500/50 mt-10 hover:scale-105 transition-transform duration-100 hover:drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] ' >
          <a href='https://mohit98k.github.io/gameedex/' target='_blank'>
             <div>
-              <a href='https://mohit98k.github.io/gameedex/' target='_blank'> <img src="/gameedex.png" alt="" className='h-30 w-30 md:w-50 p-2' /></a> 
+              <a href='https://mohit98k.github.io/gameedex/' target='_blank'> <img src="/Portfolio/gameedex.png" alt="" className='h-30 w-30 md:w-50 p-2' /></a> 
             </div>
             <div className='text-center '>
               <a href="https://mohit98k.github.io/gameedex/" target='_blank' className=' font-bold text-xl md:text3xl text-gray-300'> Gameedex</a>
@@ -43,7 +43,7 @@ export const Projects = () => {
         <div className='border border-white bg-gray-900 hover:shadow-purple-500/50 mt-10  hover:scale-105 transition-transform duration-100 hover:drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]  ' >
         <a href='https://mohit98k.github.io/tic-tac-toe-game/' target='_blank'>
             <div>
-              <a href='https://mohit98k.github.io/tic-tac-toe-game/' target='_blank'> <img src="/tictactoe.png" alt="" className='h-30 w-30 md:w-50 p-2' /></a>
+              <a href='https://mohit98k.github.io/tic-tac-toe-game/' target='_blank'> <img src="/Portfolio/tictactoe.png" alt="" className='h-30 w-30 md:w-50 p-2' /></a>
             </div>
             <div className='text-center '>
               <a href="https://mohit98k.github.io/tic-tac-toe-game/" target='_blank' className=' font-bold text-xl md:text3xl text-gray-300'> Tic-Tac-Toe</a>
@@ -63,7 +63,7 @@ export const Projects = () => {
          <div className='border border-white bg-gray-900 hover:shadow-purple-500/50 mt-10  hover:scale-105 transition-transform duration-100 hover:drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]  ' >
         <a href='https://mohit98k.github.io/CurrencyConverterWebApp/' target='_blank'>
             <div>
-              <a href='https://mohit98k.github.io/CurrencyConverterWebApp/' target='_blank'> <img src="/currencyconverter.png" alt="" className='h-30 w-30 md:w-50 p-2' /></a>
+              <a href='https://mohit98k.github.io/CurrencyConverterWebApp/' target='_blank'> <img src="/Portfolio/currencyconverter.png" alt="" className='h-30 w-30 md:w-50 p-2' /></a>
             </div>
             <div className='text-center '>
               <a href="https://mohit98k.github.io/CurrencyConverterWebApp/" target='_blank' className=' font-bold text-xl md:text3xl text-gray-300'> Currency Converter</a>

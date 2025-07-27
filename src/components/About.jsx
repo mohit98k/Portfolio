@@ -36,7 +36,7 @@ export const About = () => {
 
                {/*right side */}
                <div className="">
-                   <img src="/mypic.jpg"  className="w-28 h-28 md:w-96 md:h-96  rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] mt-10 md:mt-40  md:ml-40 hover:scale-105 transition-transform duration-300"/>
+                   <img src="/Portfolio/mypic.jpg"  className="w-28 h-28 md:w-96 md:h-96  rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)] mt-10 md:mt-40  md:ml-40 hover:scale-105 transition-transform duration-300"/>
                </div>
 
 
