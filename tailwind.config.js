@@ -3,6 +3,15 @@ export default {
   content: [
     "./index.html",           // Include your main HTML
     "./src/**/*.{js,jsx,ts,tsx}"  // Include all files in src/
+  ], 
+   safelist: [
+    "md:ml-20",
+    "md:mr-40",
+    "md:mt-40",
+    "hover:scale-105",
+    "transition-transform",
+    "duration-300",
+    "gap-6",
   ],
   theme: {
     extend: {
