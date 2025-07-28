@@ -59,11 +59,11 @@ export const Navbar = () => {
       {menuOpen &&(
         <div className='absolute w-50 space-y-4  top-10 bg-[#050414] backdrop-blur-md bg-white/20 z-10'>
             <div className='flex flex-col justify-center items-center '>
-              <a href="" onClick={toggleMenu} className='hover:text-[#8245ec]'>About</a>
-              <a href="" onClick={toggleMenu} className='hover:text-[#8245ec]'>Skills</a>
-              <a href="" onClick={toggleMenu} className='hover:text-[#8245ec]'>Project</a>
-              <a href="" onClick={toggleMenu} className='hover:text-[#8245ec]'>Education</a>
-              <a href="" onClick={toggleMenu} className='hover:text-[#8245ec]'>Contact</a>
+              <a href="#About" onClick={toggleMenu} className='hover:text-[#8245ec]'>About</a>
+              <a href="#Skills" onClick={toggleMenu} className='hover:text-[#8245ec]'>Skills</a>
+              <a href="#Projects" onClick={toggleMenu} className='hover:text-[#8245ec]'>Project</a>
+              <a href="#Education" onClick={toggleMenu} className='hover:text-[#8245ec]'>Education</a>
+              <a href="#Contact" onClick={toggleMenu} className='hover:text-[#8245ec]'>Contact</a>
             </div>
 
             <div className='flex  justify-center'>

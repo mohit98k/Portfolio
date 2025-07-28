@@ -12,7 +12,7 @@ export const Skills = () => {
       </p>
              
 
-      <div className="flex flex-wrap ">
+      <div className="flex flex-wrap  ">
         <BlurBlob top="100%" left="20%" width="300px" height="400px" />
        
         

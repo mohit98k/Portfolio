@@ -2,7 +2,7 @@ import React from 'react'
 import { BlurBlob } from '../BlurBlob'
 export const Education = () => {
   return (
-    <div id='Education '>
+    <div id='Education'>
 
       <div className=' absolute '> 
                 <BlurBlob top="100%" left="30%" width="300px" height="400px" />
