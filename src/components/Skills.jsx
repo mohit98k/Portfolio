@@ -2,7 +2,7 @@ import React from 'react'
 import { BlurBlob } from '../BlurBlob'
 export const Skills = () => {
   return (
-    <div id='Skills' className="text-center md:mt-40 mt-60  px-[12vw] md:px-[7vw] lg:px-[20vw]  " >
+    <div id='Skills' className="text-center md:mt-40 mt-60 w-[70%] mx-auto" >
      
 
        <h2 className="text-3xl sm:text-4xl font-bold text-white ">SKILLS</h2>
